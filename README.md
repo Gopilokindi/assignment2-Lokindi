@@ -10,3 +10,6 @@ my  favorite team is **Royal Challengers Bangalore.**<br>
 1. Virat kohli
 2. Glenn Maxwell
 3. Jason Behrendorff
+* Mi Cape Town
+* Gujarat Titans
+* Lucknow Super Giants
