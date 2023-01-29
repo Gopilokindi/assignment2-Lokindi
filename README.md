@@ -15,3 +15,14 @@ my  favorite team is **Royal Challengers Bangalore.**<br>
 * Lucknow Super Giants
 
 **[AboutMe](AboutMe.md)**
+
+---
+### wanderlust
+This is Traveling Table Information.
+| Country | Reason | No of days |
+| --- | --- | ---: |
+| Goa | Best Place to Hangout | 10 |
+| France | Best place to Have nice views | 15 |
+| UAE | Best Place to visit waterless mountains | 18 |
+
+
