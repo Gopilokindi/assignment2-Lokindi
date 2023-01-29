@@ -24,6 +24,7 @@ This is Traveling Table Information.
 | Goa | Best Place to Hangout | 10 |
 | France | Best place to Have nice views | 15 |
 | UAE | Best Place to visit waterless mountains | 18 |
+| Venice | Best Place to visit unique environmentally | 20|
 
 ---
 ### Funny Quotes
