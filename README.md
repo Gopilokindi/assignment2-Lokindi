@@ -33,7 +33,9 @@ This is Traveling Table Information.
 
 ---
 ### Code Fencing
->Get The First Image From a Post.click here to go stackoverflow <https://stackoverflow.com/questions/21975301/how-to-get-the-first-image-from-post>
+>Get The First Image From a Post.
+
+click here to go stackoverflow <https://stackoverflow.com/questions/21975301/how-to-get-the-first-image-from-post>
 
 ```
 function catch_that_image() {
