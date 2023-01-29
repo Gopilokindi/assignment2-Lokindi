@@ -25,4 +25,8 @@ This is Traveling Table Information.
 | France | Best place to Have nice views | 15 |
 | UAE | Best Place to visit waterless mountains | 18 |
 
+---
+### Pithy Quotes
+>The best way to teach your kids about taxes is by eating 30 percent of their ice cream. *Bill Murray*
 
+>Knowledge is like underwear. It is useful to have it, but not necessary to show it off. *Bill Murray*
