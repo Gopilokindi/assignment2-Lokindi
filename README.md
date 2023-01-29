@@ -26,7 +26,30 @@ This is Traveling Table Information.
 | UAE | Best Place to visit waterless mountains | 18 |
 
 ---
-### Pithy Quotes
+### Funny Quotes
 >The best way to teach your kids about taxes is by eating 30 percent of their ice cream. *Bill Murray*
 
 >Knowledge is like underwear. It is useful to have it, but not necessary to show it off. *Bill Murray*
+
+---
+### Code Fencing
+>Get The First Image From a Post.click here to go stackoverflow <https://stackoverflow.com/questions/21975301/how-to-get-the-first-image-from-post>
+
+```
+function catch_that_image() {
+  global $post, $posts;
+  $first_img = '';
+  ob_start();
+  ob_end_clean();
+  $output = preg_match_all('/<img.+?src=[\'"]([^\'"]+)[\'"].*?>/i', $post->post_content, $matches);
+  $first_img = $matches[1][0];
+
+  if(empty($first_img)) {
+    $first_img = "/path/to/default.png";
+  }
+  return $first_img;
+}
+```
+click here to go css-tricks <https://css-tricks.com/snippets/wordpress/get-the-first-image-from-a-post/>
+
+
